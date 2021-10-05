@@ -1,6 +1,6 @@
 # Svelte + TS + Vite
 
-This template is a modified version of npm init `vite@latest <app name> --template svelte-ts` that has some additional preconfigured packages for a quick start when setting up new projects.
+This template is a modified version of `npm init vite@latest <app name> --template svelte-ts` that has some additional preconfigured packages for a quick start when setting up new projects.
 
 It includes:
 
